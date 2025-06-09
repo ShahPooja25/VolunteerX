@@ -1,13 +1,3 @@
-# Volunter-X
-
-**Team Name:** Send Nodes  
-**Team Members:**
-1. Dikshant Badawadagi  
-2. Divyan Jain  
-3. Shubham Gupta  
-4. Pakshal Shah  
-5. Dhruv Padhiar  
-
 ## 📌 Project Overview
 
 **VolunterX** is a platform designed to bridge the gap between volunteers and organizations that need them. Whether it's a non-profit seeking assistance or individuals looking for community engagement opportunities, VolunterX brings them together seamlessly.
